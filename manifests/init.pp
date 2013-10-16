@@ -5,7 +5,7 @@
 #   include flux
 class flux {
   package { 'Flux':
-    source   => 'https://secure.herf.org/flux/Flux.zip',
+    source   => 'https://justgetflux.com/mac/Flux.zip',
     provider => 'compressed_app'
   }
 }
