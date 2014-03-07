@@ -6,6 +6,9 @@
 
 ```puppet
 include flux
+
+# Or use the beta version
+include flux::beta
 ```
 
 ## Required Puppet Modules
