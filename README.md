@@ -1,22 +1,7 @@
 # F.lux Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-flux.png)](https://travis-ci.org/boxen/puppet-flux)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include flux
-
-# Or use the beta version
-include flux::beta
-```
-
-## Required Puppet Modules
-
-* boxen
-
-## Developing
-
-Write code.
-
-Run `script/cibuild`.
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
